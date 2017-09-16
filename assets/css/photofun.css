@@ -3,3 +3,16 @@
     font-size: 7em
   }
 }
+
+.service-icon {
+  cursor: pointer;
+  padding-top: 5%;
+}
+
+.service-icon:hover {
+  opacity: 0.8;
+}
+
+#services-title {
+  margin-bottom: 0;
+}
